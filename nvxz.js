@@ -1,1 +1,1 @@
-document.write('<iframe data-src="https://casadelfutbol.tv/player/fsp.php" frameborder="0"></iframe>');
+document.write('<iframe src="'+ccc+'" allowfullscreen frameborder="0"></iframe>');
